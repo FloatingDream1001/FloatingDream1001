@@ -1,7 +1,4 @@
-<!-- <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/FloatingDream1001/count.svg" />
-</p> -->
+
 
 <p>
   <a href="https://count.FloatingDream1001.com/"><img src="https://count.getloli.com/get/@:FloatingDream1001"></a>
