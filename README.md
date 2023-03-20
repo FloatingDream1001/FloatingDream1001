@@ -42,7 +42,7 @@ Other           15 mins          ▓░░░░░░░░░░░░░░�
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FloatingDream1001&repo=FloatingDream1001)](https://github.com/FloatingDream1001/FloatingDream1001/)
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/FloatingDream1001/FloatingDream1001.github.io">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=FloatingDream1001&repo=FloatingDream1001.github.io" />
 </a>
 
