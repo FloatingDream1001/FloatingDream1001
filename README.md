@@ -1,7 +1,14 @@
+<!-- <p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/FloatingDream1001/count.svg" />
+</p> -->
 
-
-### 访客量            
-### Hi ,I am Floating Dream 👋
+<p>
+  <a href="https://count.FloatingDream1001.com/"><img src="https://count.getloli.com/get/@:FloatingDream1001"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@shenyang?v=1" align="right">
+</p>
+<h1 align="center">Hi 👋, I'm Floating Dream</h1>
+<h3 align="center">A struggling college student at school</h3>
 
 
 ### 技术栈
@@ -20,15 +27,21 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 
 
-### 我的编程语言使用排行榜
+![Github Stats](https://github-readme-stats.vercel.app/api?username=FloatingDream1001&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
+### :dart: Weekly code schedule
 
-<div align="center">
-	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=FloatingDream1001" />
-</div>
+<!--START_SECTION:waka-->
 
+```text
+JAVA            10 hrs 22 mins   ████████████████▒░░░░░░░░   64.83 %
+Python          2 hrs 3 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.94 %
+Linux           45 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
+Other           15 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloatingDream1001)](https://github.com/FloatingDream1001/)
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FloatingDream1001&repo=FloatingDream1001)](https://github.com/FloatingDream1001/FloatingDream1001/)
 
 ![github contribution grid snake animation](https://github.com/FloatingDream1001/Note/blob/main/github-contribution-grid-snake.svg)
 
