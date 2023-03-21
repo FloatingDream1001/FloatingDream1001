@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://count.FloatingDream1001.com/"><img src="https://count.getloli.com/get/@:FloatingDream1001"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@shenyang?v=1" align="right">
+  <img src="https://weather-icon.journeyad.repl.co/@Shenyang?v=1" align="right">
 </p>
 <h1 align="center">Hi 👋, I'm Floating Dream</h1>
 <h3 align="center">A struggling college student at school</h3>
