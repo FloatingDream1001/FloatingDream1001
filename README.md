@@ -4,7 +4,12 @@
   <a href="https://count.FloatingDream1001.com/"><img src="https://count.getloli.com/get/@:FloatingDream1001"></a>
   <img src="https://weather-icon.journeyad.repl.co/@Shenyang?v=1" align="right">
 </p>
-<h1 align="center">Hi 👋, I'm Floating Dream</h1>
+<h1 align="center">
+	<a href="https://sunguoqi.com/">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi 👋, I'm Floating Dream;一个在校奋发向上的大学生!&color=%23000000&size=35&center=true&width=500&height=100">
+	</a>
+</h1>
+
 <h3 align="center">A struggling college student at school</h3>
 
 <p align="center"><a href="https://www.gnu.org/software/bash/" target="_blank"> <img
