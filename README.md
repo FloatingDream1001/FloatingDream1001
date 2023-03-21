@@ -4,11 +4,13 @@
   <a href="https://count.FloatingDream1001.com/"><img src="https://count.getloli.com/get/@:FloatingDream1001"></a>
   <img src="https://weather-icon.journeyad.repl.co/@Shenyang?v=1" align="right">
 </p>
-<h1 align="center">
+
+<h1 align="center" >
 	<a href="https://sunguoqi.com/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi 👋, I'm Floating Dream;一个在校奋发向上的大学生!&color=%23000000&size=35&center=true&width=500&height=100">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2CI'm%20Floating%20Dream;一个在校奋发向上的大学生!&color=%23000000&size=35&duration=3000&center=true&multiline=true&width=500&height=100">
 	</a>
 </h1>
+
 
 <h3 align="center">A struggling college student at school</h3>
 
