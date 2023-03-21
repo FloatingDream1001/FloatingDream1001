@@ -81,9 +81,14 @@
 <br>
 <div align="center">
 <a href="https://github.com/FloatingDream1001/">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloatingDream1001&layout=compact" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloatingDream1001&theme=merko&layout=compact" />
+</a>
+	<a href="https://github.com/FloatingDream1001/">
+  <img  src="https://stats.justsong.cn/api/csdn?id=FloatingDream1001&theme=merko" />
 </a>
 </div>
+
+
 
 ### :dart: Weekly code schedule
 
@@ -110,7 +115,7 @@ Other           15 mins          ▓░░░░░░░░░░░░░░�
 
 
 ### 我的联系方式
-| :pencil: | 🖥️ | 🎵 | 📧 |
+| :pencil: | 🖥️ | 🐧 | 💌 |
 | --- | --- | --- | --- |
-| [Blogs](https://www.yangyuezz.top) |[CSDN](https://blog.csdn.net/m0_54228816?type=blog)  | [Music](https://www.yangyuezz.top/music/) | [Email](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCHTrHzhRQxfVQlsLNVNjLKsjkSglwfmmzWmlXzvVgwQtgRrjMpVfMjBghJQRwvcjxXbQq) |
+| [Blogs](https://www.yangyuezz.top) |[CSDN](https://blog.csdn.net/m0_54228816?type=blog)  | [QQ](https://www.yangyuezz.top/img/QQ.jpg) | [Email](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCHTrHzhRQxfVQlsLNVNjLKsjkSglwfmmzWmlXzvVgwQtgRrjMpVfMjBghJQRwvcjxXbQq) |
 
