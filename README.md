@@ -7,7 +7,7 @@
 
 <h1 align="center" >
 	<a href="https://sunguoqi.com/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2CI'm%20Floating%20Dream;一个在校奋发向上的大学生!&color=%23000000&size=35&duration=3000&center=true&multiline=true&width=500&height=100">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2CI'm%20Floating%20Dream;一个在校奋发向上的大学生!&color=%24000000&size=35&duration=3000&center=true&multiline=true&width=500&height=100">
 	</a>
 </h1>
 
