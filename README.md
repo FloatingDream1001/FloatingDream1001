@@ -6,9 +6,7 @@
 </p>
 
 <h1 align="center" >
-	<a href="https://sunguoqi.com/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2CI'm%20Floating%20Dream;一个在校奋发向上的大学生!&color=%24000000&size=35&duration=3000&center=true&multiline=true&width=500&height=100">
-	</a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=5002&pause=1000&color=7EE1A5&center=true&vCenter=true&multiline=false&width=735&height=62&lines=Hi%F0%9F%91%8B+%2CI+am+Floating+Dream+;%E4%B8%80%E4%B8%AA%E5%9C%A8%E6%A0%A1%E5%A5%8B%E5%8F%91%E5%90%91%E4%B8%8A%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F!" alt="Typing SVG" /></a>
 </h1>
 
 
