@@ -8,6 +8,7 @@
 <h3 align="center">A struggling college student at school</h3>
 
 
+
 ### 技术栈
 
 ![Python](https://img.shields.io/badge/-Python-%23E44D27?style=for-the-badge&logo=Python&logoColor=ffffff)
@@ -47,6 +48,7 @@ Other           15 mins          ▓░░░░░░░░░░░░░░�
 
 
 ### 我的联系方式
+| :pencil: | 🖥️ | 🎵 | 📧 |
+| --- | --- | --- | --- |
+| [Blogs](https://www.yangyuezz.top) |[CSDN](https://blog.csdn.net/m0_54228816?type=blog)  | [Music](https://www.yangyuezz.top/music/) | [Email](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCHTrHzhRQxfVQlsLNVNjLKsjkSglwfmmzWmlXzvVgwQtgRrjMpVfMjBghJQRwvcjxXbQq) |
 
-> `个人博客`: [个人博客](https://www.yangyuezz.top)
-> `CSDN`: [CSDN](https://blog.csdn.net/m0_54228816?type=blog)
