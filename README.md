@@ -77,7 +77,7 @@
 <!-- Github连续打卡start -->
 <div align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FloatingDream1001&theme=dark&hide_border=false" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FloatingDream1001&theme=merko&hide_border=false" />
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
 <br>
@@ -103,8 +103,8 @@ Other           15 mins          ▓░░░░░░░░░░░░░░�
 <a href="https://github.com/FloatingDream1001/FloatingDream1001.github.io">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=FloatingDream1001&repo=FloatingDream1001.github.io" />
 </a>
+[![FloatingDream's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FloatingDream1001&bg_color=fffff0&color=#ebedf0&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/FloatingDream)
 
-<div align="center">
 <a href="https://github.com/FloatingDream1001/">
   <img  src="https://github.com/FloatingDream1001/Note/blob/main/github-contribution-grid-snake.svg" />
 </a>
