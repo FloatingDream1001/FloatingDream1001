@@ -109,7 +109,7 @@ Other           15 mins          ▓░░░░░░░░░░░░░░�
 [![FloatingDream's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FloatingDream1001&bg_color=fffff0&color=#ebedf0&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/FloatingDream)
 <div align="center" >
 <a href="https://github.com/FloatingDream1001/">
-  <img  src="https://github.com/FloatingDream1001/Note/blob/main/github-contribution-grid-snake.svg" />
+  <img  src="https://github.com/FloatingDream1001/FloatingDream1001/blob/main/github-contribution-grid-snake.svg" />
 </a>
 </div>
 
