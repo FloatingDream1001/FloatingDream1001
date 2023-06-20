@@ -106,7 +106,7 @@ Other           15 mins          ▓░░░░░░░░░░░░░░�
 <a href="https://github.com/FloatingDream1001/FloatingDream1001.github.io">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=FloatingDream1001&repo=FloatingDream1001.github.io" />
 </a>
-[![FloatingDream's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FloatingDream1001&bg_color=fffff0&color=#ebedf0&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/FloatingDream)
+[![FloatingDream's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FloatingDream1001&bg_color=fffff0&color=#ebedf0&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/FloatingDream1001)
 <div align="center" >
 <a href="https://github.com/FloatingDream1001/">
   <img  src="https://github.com/FloatingDream1001/FloatingDream1001/blob/main/github-contribution-grid-snake.svg" />
